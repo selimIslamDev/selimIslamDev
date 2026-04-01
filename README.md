@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=MD%20Selim%20Islam&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=58&descAlign=50&descSize=22" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+%F0%9F%9A%80;Next.js+%7C+PostgreSQL+%7C+Prisma;Building+Scalable+Web+Apps+%F0%9F%8C%90;Open+to+Freelance+%26+Full-time+%F0%9F%92%BC)](https://git.io/typing-svg)
+![Banner](https://raw.githubusercontent.com/selimIslamDev/selimIslamDev/main/banner.svg)
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=selimIslamDev&color=8b5cf6&style=for-the-badge&label=Profile+Views)](https://github.com/selimIslamDev)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;MERN+Stack+Developer;Next.js+%7C+PostgreSQL+%7C+Prisma;Open+to+Freelance+and+Full-time)](https://git.io/typing-svg)
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=selimIslamDev&color=6366f1&style=for-the-badge&label=Profile+Views)](https://github.com/selimIslamDev)
 [![GitHub followers](https://img.shields.io/github/followers/selimIslamDev?style=for-the-badge&color=8b5cf6)](https://github.com/selimIslamDev)
 
 </div>
 
 ---
-
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ## 👨‍💻 About Me
 
@@ -31,8 +31,6 @@ const selim = {
   openTo   : "Freelance & Full-time opportunities 💼",
 };
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -75,7 +73,7 @@ const selim = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=selimIslamDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=selimIslamDev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selimIslamDev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
@@ -88,7 +86,7 @@ const selim = {
 
 <div align="center">
 
-[![Selim's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=selimIslamDev&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=selimIslamDev&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -98,7 +96,7 @@ const selim = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=selimIslamDev&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=selimIslamDev&theme=tokyonight&no-frame=true&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -111,7 +109,7 @@ const selim = {
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salimislam0036@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/selimIslamDev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/selimIslamDev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://selimislamdev.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://selimislamdev.vercel.app)
 
 </div>
 
@@ -128,8 +126,8 @@ const selim = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b3e,50:1a0a2e,100:0a0a1a&height=120&section=footer" width="100%"/>
 
-**Thanks for visiting! ⭐ Star some repos if you find them useful!**
+**⭐ Thanks for visiting! If you find my work useful, consider starring my repos!**
 
 </div>
