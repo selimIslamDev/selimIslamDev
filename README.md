@@ -4,10 +4,6 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;MERN+Stack+Developer;Next.js+%7C+PostgreSQL+%7C+Prisma;Open+to+Freelance+and+Full-time)](https://git.io/typing-svg)
-
-<br/>
-
 [![Profile Views](https://komarev.com/ghpvc/?username=selimIslamDev&color=6366f1&style=for-the-badge&label=Profile+Views)](https://github.com/selimIslamDev)
 [![GitHub followers](https://img.shields.io/github/followers/selimIslamDev?style=for-the-badge&color=8b5cf6)](https://github.com/selimIslamDev)
 
