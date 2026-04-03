@@ -1,6 +1,6 @@
 <div align="center">
 
-![Modern MERN & Next.js Developer Banner](https://i.ibb.co/L5T47T9/selim-github-banner.png)
+![Banner](https://raw.githubusercontent.com/selimIslamDev/selimIslamDev/main/banner.svg)
 
 <br/>
 
